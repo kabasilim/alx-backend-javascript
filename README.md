@@ -30,7 +30,7 @@ Click here to show/hide file contents
 > Don’t forget to run npm install from the terminal of your project folder to install all necessary project dependencies.
 
 ## Directory
-- [0x00-ES6_basic](#0x00-ES6_basic)
+1. [0x00-ES6_basic](#0x00-ES6_basic)
 ### File
   * [0-constants.js](#0-constants.js)
   * [1-block-scoped.js](#1-block-scoped.js)
