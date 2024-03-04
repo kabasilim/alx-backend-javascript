@@ -31,7 +31,7 @@ Click here to show/hide file contents
 
 ## Directory
 1. [0x00-ES6_basic](#0x00-ES6_basic)
-### File
+### Files
   * [0-constants.js](#0-constants.js)
   * [1-block-scoped.js](#1-block-scoped.js)
   * [2-arrow.js](#2-arrow.js)
