@@ -22,7 +22,8 @@
 
 ## Tasks
 
-- 0-constants.js --->>> Const or let?
+- 0-constants.js
+-  Const or let?
 Modify
 
   * function ``taskFirst`` to instantiate variables using ``const``
